@@ -1,0 +1,993 @@
+- generic [ref=e1]:
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - link "登录" [ref=e7] [cursor=pointer]:
+        - /url: //www.yaozh.com/login/
+      - link "注册" [ref=e10] [cursor=pointer]:
+        - /url: //www.yaozh.com/register/
+    - generic [ref=e11]:
+      - link "药智数据" [ref=e12] [cursor=pointer]:
+        - /url: https://db.yaozh.com/?ga_source=www&ga_name=home_nav
+      - link "全球新药" [ref=e13] [cursor=pointer]:
+        - /url: https://db.yaozh.com/globaldrugs/introduce?tryout=1&ga_source=www&ga_name=dbdh_yzh
+      - link "销售数据" [ref=e14] [cursor=pointer]:
+        - /url: https://db.yaozh.com/sale/terminal?tryout=1&ga_source=www&ga_name=dbdh_yzh
+      - link "医械数据" [ref=e15] [cursor=pointer]:
+        - /url: https://qx.yaozh.com/introduce/?ga_source=www&ga_name=home_nav
+      - link "行业报告" [ref=e16] [cursor=pointer]:
+        - /url: https://db.yaozh.com/reportcenter?&ga_source=www&ga_name=home_nav
+      - link "药小智大模型" [ref=e17] [cursor=pointer]:
+        - /url: https://chatmeds.yaozh.com/introduce?ga_source=www&ga_name=home_nav
+      - link "药智通" [ref=e18] [cursor=pointer]:
+        - /url: https://s.yaozh.com/?ga_source=www&ga_name=home_nav
+      - link "视频" [ref=e19] [cursor=pointer]:
+        - /url: https://edu.yaozh.com/Course.html?ga_source=www&ga_name=home_drop-down_nav
+  - generic [ref=e22]:
+    - link "药智网" [ref=e23] [cursor=pointer]:
+      - /url: //www.yaozh.com/zhihui
+    - generic [ref=e24]:
+      - generic [ref=e25]: 
+      - textbox [ref=e26]
+      - link "搜 索" [ref=e27] [cursor=pointer]:
+        - /url: javascript:;
+    - generic [ref=e28]: 或
+    - link "立即发布需求" [ref=e29] [cursor=pointer]:
+      - /url: /fabu
+      - text: 立即发布需求
+  - generic [ref=e30]:
+    - generic:
+      - generic [ref=e31]:
+        - generic [ref=e32]:
+          - generic [ref=e33]: 
+          - text: 所有需求分类
+        - generic [ref=e34]:
+          - generic [ref=e35]:
+            - generic [ref=e36]:
+              - generic [ref=e37]: 
+              - link "生产研发" [ref=e38] [cursor=pointer]:
+                - /url: /yanfa/
+            - generic [ref=e39]:
+              - link "工艺技术" [ref=e40] [cursor=pointer]:
+                - /url: /gongyi/
+              - link "分析检测" [ref=e41] [cursor=pointer]:
+                - /url: /fenxi/
+              - link "药理毒理" [ref=e42] [cursor=pointer]:
+                - /url: /yaoli/
+              - link "临床试验" [ref=e43] [cursor=pointer]:
+                - /url: /shiyan/
+              - link "其他" [ref=e44] [cursor=pointer]:
+                - /url: /qitayanfa/
+          - generic [ref=e45]:
+            - generic [ref=e46]:
+              - generic [ref=e47]: 
+              - link "定制服务" [ref=e48] [cursor=pointer]:
+                - /url: /dingzhi/
+            - generic [ref=e49]:
+              - link "定制合成" [ref=e50] [cursor=pointer]:
+                - /url: /hecheng/
+              - link "定制产品" [ref=e51] [cursor=pointer]:
+                - /url: /dingzhicp/
+              - link "试验外包" [ref=e52] [cursor=pointer]:
+                - /url: /scshebei/
+              - link "定制仪器" [ref=e53] [cursor=pointer]:
+                - /url: /jiance/
+              - link "其他定制" [ref=e54] [cursor=pointer]:
+                - /url: /qitazhi/
+          - generic [ref=e55]:
+            - generic [ref=e56]:
+              - generic [ref=e57]: 
+              - link "项目合作" [ref=e58] [cursor=pointer]:
+                - /url: /hezuo/
+            - generic [ref=e59]:
+              - link "批文转让" [ref=e60] [cursor=pointer]:
+                - /url: /piwen/
+              - link "产品注册" [ref=e61] [cursor=pointer]:
+                - /url: /zhuce/
+              - link "技术合作" [ref=e62] [cursor=pointer]:
+                - /url: /jishu/
+              - link "融资并购" [ref=e63] [cursor=pointer]:
+                - /url: /rongzi/
+              - link "企业认证" [ref=e64] [cursor=pointer]:
+                - /url: /renzheng/
+              - link "其他合作" [ref=e65] [cursor=pointer]:
+                - /url: /qitahezuo/
+          - generic [ref=e66]:
+            - generic [ref=e67]:
+              - generic [ref=e68]: 
+              - link "营销推广" [ref=e69] [cursor=pointer]:
+                - /url: /yingxiao/
+            - generic [ref=e70]:
+              - link "市场调研" [ref=e71] [cursor=pointer]:
+                - /url: /diaoyan/
+              - link "营销咨询" [ref=e72] [cursor=pointer]:
+                - /url: /zixun/
+              - link "品牌推广" [ref=e73] [cursor=pointer]:
+                - /url: /pinpai/
+              - link "网络推广" [ref=e74] [cursor=pointer]:
+                - /url: /wangluo/
+              - link "会议培训" [ref=e75] [cursor=pointer]:
+                - /url: /huiyi/
+              - link "其他营销" [ref=e76] [cursor=pointer]:
+                - /url: /other/
+          - generic [ref=e77]:
+            - generic [ref=e78]:
+              - generic [ref=e79]: 
+              - link "特色服务" [ref=e80] [cursor=pointer]:
+                - /url: /wenan/
+            - generic [ref=e81]:
+              - link "数据处理" [ref=e82] [cursor=pointer]:
+                - /url: /shuju/
+              - link "信息服务" [ref=e83] [cursor=pointer]:
+                - /url: /xinxi/
+              - link "文献检索" [ref=e84] [cursor=pointer]:
+                - /url: /wenxian/
+              - link "文献翻译" [ref=e85] [cursor=pointer]:
+                - /url: /fanyi/
+              - link "征文征稿" [ref=e86] [cursor=pointer]:
+                - /url: /zhengwen/
+              - link "数据查询" [ref=e87] [cursor=pointer]:
+                - /url: /qita/
+      - generic [ref=e88]:
+        - link "首页" [ref=e89] [cursor=pointer]:
+          - /url: //www.yaozh.com/zhihui
+        - link "需求大厅" [ref=e90] [cursor=pointer]:
+          - /url: //www.yaozh.com/list/?tuoguan=&fenpei=&zhuangtai=1&keytitle=&c=xq
+        - link "推荐任务" [ref=e91] [cursor=pointer]:
+          - /url: //www.yaozh.com/list/recommend/?c=tj
+          - text: 推荐任务
+          - img [ref=e92]
+        - link "成功案例" [ref=e93] [cursor=pointer]:
+          - /url: //www.yaozh.com/list/success/?c=cg
+        - link "积分赚取" [ref=e94] [cursor=pointer]:
+          - /url: /zhihui/jf
+          - text: 积分赚取
+      - generic [ref=e96]:
+        - generic [ref=e97]: 
+        - link "如何使用" [ref=e99] [cursor=pointer]:
+          - /url: //www.yaozh.com/howtou/
+  - generic [ref=e100]:
+    - generic [ref=e101]:
+      - generic [ref=e102]:
+        - text: 平台指数：
+        - generic [ref=e103]:
+          - generic [ref=e104]: 
+          - text: 会员 1611571人
+        - generic [ref=e105]:
+          - generic [ref=e106]: 
+          - text: 需求总数 18060个
+        - generic [ref=e107]:
+          - generic [ref=e108]: 
+          - text: 总交易金额 57,717,360元
+        - generic [ref=e109]:
+          - text: 最新加入会员
+          - generic [ref=e111]:
+            - paragraph [ref=e112]: menovo2 加入药智啦
+            - paragraph [ref=e113]: menovo1 加入药智啦
+            - paragraph [ref=e114]: yinsnow… 加入药智啦
+            - paragraph [ref=e115]: coala 加入药智啦
+            - paragraph [ref=e116]: solasia 加入药智啦
+            - paragraph [ref=e117]: 1891184… 加入药智啦
+            - paragraph [ref=e118]: wuyulia… 加入药智啦
+            - paragraph [ref=e119]: jiaerfi… 加入药智啦
+            - paragraph [ref=e120]: 清风殇逝 加入药智啦
+            - paragraph [ref=e121]: squirre… 加入药智啦
+      - generic [ref=e122]:
+        - generic [ref=e123]:
+          - generic [ref=e124]:
+            - generic [ref=e125]:
+              - link "AI成药性预测平台(optADMET)":
+                - /url: https://db.yaozh.com/pharmwings?ga_source=zhihui&ga_name=index_slide_ad
+                - img "AI成药性预测平台(optADMET)" [ref=e126] [cursor=pointer]
+            - generic [ref=e127]:
+              - link "药智咨询 数据洞察驱动的医药咨询服务":
+                - /url: https://report.yaozh.com/?yzh
+                - img "药智咨询 数据洞察驱动的医药咨询服务" [ref=e128] [cursor=pointer]
+            - generic [ref=e129]:
+              - link "药智器械":
+                - /url: https://qx.yaozh.com/introduce?tryout=1&ga_source=zhihui&ga_name=index_slide_ad
+                - img "药智器械" [ref=e130] [cursor=pointer]
+          - generic [ref=e131]:
+            - link "0" [ref=e132] [cursor=pointer]:
+              - /url: javascript:;
+            - link "1" [ref=e133] [cursor=pointer]:
+              - /url: javascript:;
+            - link "2" [ref=e134] [cursor=pointer]:
+              - /url: javascript:;
+        - generic [ref=e135]:
+          - generic [ref=e136]:
+            - link "公告" [ref=e137] [cursor=pointer]:
+              - /url: javascript:;
+            - link "规则" [ref=e138] [cursor=pointer]:
+              - /url: javascript:;
+          - list [ref=e140]:
+            - listitem [ref=e141]:
+              - link "2026年春节放假公告" [ref=e142] [cursor=pointer]:
+                - /url: //help.yaozh.com/help670.html
+            - listitem [ref=e143]:
+              - link "药智汇发布任务发布流程升级通知" [ref=e144] [cursor=pointer]:
+                - /url: //help.yaozh.com/help665.html
+            - listitem [ref=e145]:
+              - link "2024年春节放假公告" [ref=e146] [cursor=pointer]:
+                - /url: //help.yaozh.com/help655.html
+            - listitem [ref=e147]:
+              - link "药智汇恢复收取佣金通知" [ref=e148] [cursor=pointer]:
+                - /url: //help.yaozh.com/help639.html
+            - listitem [ref=e149]:
+              - link "药智汇支付方式更新通知" [ref=e150] [cursor=pointer]:
+                - /url: //help.yaozh.com/help638.html
+            - listitem [ref=e151]:
+              - link "50000元寻川东北某医药园区企业选址线索" [ref=e152] [cursor=pointer]:
+                - /url: //help.yaozh.com/help635.html
+            - listitem [ref=e153]:
+              - link "2023年春节放假公告" [ref=e154] [cursor=pointer]:
+                - /url: //help.yaozh.com/help629.html
+      - generic [ref=e155]:
+        - generic [ref=e156]:
+          - link "AI平台" [ref=e158] [cursor=pointer]:
+            - /url: https://npaiengine.yaozh.com/?tryout=1&ga_source=zhihui&ga_name=sy1_ad
+            - img "AI平台" [ref=e159]
+          - link "药智通" [ref=e161] [cursor=pointer]:
+            - /url: https://s.yaozh.com
+            - img "药智通" [ref=e162]
+          - link "药智咨询" [ref=e164] [cursor=pointer]:
+            - /url: https://report.yaozh.com/?tryout=1
+            - img "药智咨询" [ref=e165]
+        - generic [ref=e166]:
+          - heading "药智汇特色" [level=4] [ref=e167]
+          - generic [ref=e168]:
+            - term [ref=e169]: 药智客权益保障
+            - definition [ref=e170]: 赏金托管，可放心工作
+          - generic [ref=e171]:
+            - term [ref=e172]: 任务主权益保障
+            - definition [ref=e173]: 无有效稿件，赏金全额退还
+          - generic [ref=e174]:
+            - term [ref=e175]: 药智汇专业服务
+            - definition [ref=e176]: 药智汇提供担保与服务
+    - generic [ref=e177]:
+      - generic [ref=e178]:
+        - generic [ref=e179]:
+          - heading "赏金快报" [level=4] [ref=e180]
+          - list [ref=e181]:
+            - generic [ref=e182]:
+              - listitem [ref=e183]:
+                - link "liaolpp" [ref=e184] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: 雇佣了
+                - link "盐酸米那普仑" [ref=e185] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: ￥83.00 求购电子胆道镜说明书一份
+              - listitem [ref=e186]:
+                - link "wangjie453347735" [ref=e187] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: 雇佣了
+                - link "xzw001" [ref=e188] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: ￥50.00 求购药品说明书数据0915
+              - listitem [ref=e189]:
+                - link "15060076339web900" [ref=e190] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: 雇佣了
+                - link "akang627" [ref=e191] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: ￥200.00 求购一份《一次性使用血液透…
+              - listitem [ref=e192]:
+                - link "chw864" [ref=e193] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: 雇佣了
+                - link "甘蔗二品炼药师" [ref=e194] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: ￥50.00 求购替普瑞酮生产工艺资料模板
+            - generic [ref=e195]:
+              - listitem [ref=e196]:
+                - link "wangjie453347735" [ref=e197] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: 雇佣了
+                - link "15683806497web974" [ref=e198] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: ￥2310.00 药品说明书赏金领取
+              - listitem [ref=e199]:
+                - link "wangjie453347735" [ref=e200] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: 雇佣了
+                - link "启航076" [ref=e201] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: ￥2430.00 药品说明书赏金领取
+              - listitem [ref=e202]:
+                - link "陈东1234" [ref=e203] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: 雇佣了
+                - link "DiiBestie" [ref=e204] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: ￥50.00 50元奖励一条药智网中标信…
+              - listitem [ref=e205]:
+                - link "Doris_huan" [ref=e206] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: 雇佣了
+                - link "饮了晚风啊啊啊" [ref=e207] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: ￥50.00 求购一份一类器械注册申报相…
+            - generic [ref=e208]:
+              - listitem [ref=e209]:
+                - link "renming11111" [ref=e210] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: 雇佣了
+                - link "ayao9452" [ref=e211] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: ￥100.00 求购布美他尼注射液或片日本…
+              - listitem [ref=e212]:
+                - link "dominica" [ref=e213] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: 雇佣了
+                - link "17715251704" [ref=e214] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: ￥150.00 求购蔗糖羟基氧化铁（蔗糖氢…
+              - listitem [ref=e215]:
+                - link "71829124@qq.com" [ref=e216] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: 雇佣了
+                - link "import" [ref=e217] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: ￥100.00 求购乳果糖口服溶液进口技术…
+              - listitem [ref=e218]:
+                - link "xgwhhh" [ref=e219] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: 雇佣了
+                - link "yijuleye" [ref=e220] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: ￥200.00 药品临床试验申办者质量管理…
+            - generic [ref=e221]:
+              - listitem [ref=e222]:
+                - link "lulijing" [ref=e223] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: 雇佣了
+                - link "小小蚂蚁打酱油" [ref=e224] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: ￥100.00 求购醋酸钠林格注射液质量信息
+              - listitem [ref=e225]:
+                - link "wangjie453347735" [ref=e226] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: 雇佣了
+                - link "icy-wen" [ref=e227] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: ￥50.00 求购药品说明书数据
+              - listitem [ref=e228]:
+                - link "wangjie453347735" [ref=e229] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: 雇佣了
+                - link "18203658921ph550" [ref=e230] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: ￥50.00 求购药品说明书数据6.3
+              - listitem [ref=e231]:
+                - link "long_eva" [ref=e232] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: 雇佣了
+                - link "天空13548712575" [ref=e233] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: ￥100.00 吸入用乙酰半胱氨酸溶液JX…
+            - generic [ref=e234]:
+              - listitem [ref=e235]:
+                - link "h670835911" [ref=e236] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: 雇佣了
+                - link "似水鸭鸭鸭鸭已注销" [ref=e237] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: ￥100.00 安瓿瓶微生物侵入试验方案模板
+              - listitem [ref=e238]:
+                - link "songchunli1221" [ref=e239] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: 雇佣了
+                - link "zp666666" [ref=e240] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: ￥100.00 求购硝普钠注射液质量标准
+              - listitem [ref=e241]:
+                - link "wangjie453347735" [ref=e242] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: 雇佣了
+                - link "jlscn01" [ref=e243] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: ￥20.00 求购药品说明书数据
+              - listitem [ref=e244]:
+                - link "yp2003" [ref=e245] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: 雇佣了
+                - link "lilele92" [ref=e246] [cursor=pointer]:
+                  - /url: javascript:;
+                - text: ￥50.00 求购α-硫辛酸/富马酸伏诺…
+        - generic [ref=e247]:
+          - emphasis [ref=e249]: 关注我们
+          - img "药智数据APP" [ref=e250]
+          - img "药智数据" [ref=e251]
+      - generic [ref=e252]:
+        - generic [ref=e253]: 如何解决您的需求?
+        - generic [ref=e254]:
+          - emphasis [ref=e255]: "1"
+          - text: 描述您的需求
+        - generic [ref=e258]:
+          - emphasis [ref=e259]: "2"
+          - text: 选择适合的交易模式
+        - generic [ref=e262]:
+          - emphasis [ref=e263]: "3"
+          - text: 托管赏金到药智汇
+        - generic [ref=e266]:
+          - emphasis [ref=e267]: "4"
+          - text: 获得众多方案
+        - generic [ref=e270]:
+          - emphasis [ref=e271]: "5"
+          - text: 选择您满意的方案
+    - generic [ref=e272]:
+      - generic [ref=e273]:
+        - heading " 推荐任务" [level=3] [ref=e274]:
+          - generic [ref=e275]: 
+          - text: 推荐任务
+        - generic [ref=e276]:
+          - generic [ref=e277]:
+            - link "生产研发" [ref=e278] [cursor=pointer]:
+              - /url: /yanfa/
+            - link "定制服务" [ref=e279] [cursor=pointer]:
+              - /url: /dingzhi/
+            - link "项目合作" [ref=e280] [cursor=pointer]:
+              - /url: /hezuo/
+            - link "营销推广" [ref=e281] [cursor=pointer]:
+              - /url: /yingxiao/
+            - link "特色服务" [ref=e282] [cursor=pointer]:
+              - /url: /wenan/
+          - list [ref=e284]:
+            - listitem [ref=e285]:
+              - generic [ref=e286]:
+                - link [ref=e287] [cursor=pointer]:
+                  - /url: /1564663/
+                - paragraph [ref=e288]:
+                  - link "150600…" [ref=e289] [cursor=pointer]:
+                    - /url: /1564663/
+              - generic [ref=e290]:
+                - generic [ref=e291]:
+                  - link "求购一份肠内营养乳剂（TPF-D）中所用膳食纤维的具体成分及添加量" [ref=e292] [cursor=pointer]:
+                    - /url: /gongyi/21109.html
+                  - generic [ref=e293]: 1 投标
+                  - generic [ref=e295]: 已托管
+                - generic [ref=e296]:
+                  - text: 需要列出膳食纤维具体成分和具体的添加量
+                  - link "[更多]" [ref=e297] [cursor=pointer]:
+                    - /url: /gongyi/21109.html
+                - generic [ref=e298]:
+                  - link "工艺技术" [ref=e300] [cursor=pointer]:
+                    - /url: /gongyi/
+                  - generic [ref=e301]: 悬赏：￥200.00
+                  - generic [ref=e302]: "剩余时间: 34天6时50分39秒"
+                  - generic [ref=e303]: IP：厦门
+                  - link "立即参与" [ref=e305] [cursor=pointer]:
+                    - /url: /gongyi/21109.html
+            - listitem [ref=e306]:
+              - generic [ref=e307]:
+                - link [ref=e308] [cursor=pointer]:
+                  - /url: /327613/
+                - paragraph [ref=e309]:
+                  - link "nannan…" [ref=e310] [cursor=pointer]:
+                    - /url: /327613/
+              - generic [ref=e311]:
+                - generic [ref=e312]:
+                  - link "求购吡美莫司乳膏药品注册信息" [ref=e313] [cursor=pointer]:
+                    - /url: /fenxi/21095.html
+                  - generic [ref=e314]: 2 投标
+                  - generic [ref=e316]: 已托管
+                - generic [ref=e317]:
+                  - text: 要求内容有：1、鉴别2、检查：有关物质（已知杂质结构，限度；未知杂质和总杂质限度）3、含量（苯甲醇、吡美莫司）4、含量均匀度5、p…
+                  - link "[更多]" [ref=e318] [cursor=pointer]:
+                    - /url: /fenxi/21095.html
+                - generic [ref=e319]:
+                  - link "分析检测" [ref=e321] [cursor=pointer]:
+                    - /url: /fenxi/
+                  - generic [ref=e322]: 悬赏：￥50.00
+                  - generic [ref=e323]: "剩余时间: 4天6时50分39秒"
+                  - generic [ref=e324]: IP：福州
+                  - link "立即参与" [ref=e326] [cursor=pointer]:
+                    - /url: /fenxi/21095.html
+            - listitem [ref=e327]:
+              - generic [ref=e328]:
+                - link [ref=e329] [cursor=pointer]:
+                  - /url: /574914/
+                - paragraph [ref=e330]:
+                  - link "百年陈皮" [ref=e331] [cursor=pointer]:
+                    - /url: /574914/
+              - generic [ref=e332]:
+                - generic [ref=e333]:
+                  - link "求购碳酸氢钠注射液工艺信息表" [ref=e334] [cursor=pointer]:
+                    - /url: /gongyi/21083.html
+                  - generic [ref=e335]: 4 投标
+                  - generic [ref=e337]: 已托管
+                - generic [ref=e338]:
+                  - text: 求购碳酸氢钠注射液工艺信息表
+                  - link "[更多]" [ref=e339] [cursor=pointer]:
+                    - /url: /gongyi/21083.html
+                - generic [ref=e340]:
+                  - link "工艺技术" [ref=e342] [cursor=pointer]:
+                    - /url: /gongyi/
+                  - generic [ref=e343]: 悬赏：￥200.00
+                  - generic [ref=e344]: "剩余时间: 3天6时50分39秒"
+                  - generic [ref=e345]: IP：钦州
+                  - link "立即参与" [ref=e347] [cursor=pointer]:
+                    - /url: /gongyi/21083.html
+            - listitem [ref=e348]:
+              - generic [ref=e349]:
+                - link [ref=e350] [cursor=pointer]:
+                  - /url: /1683818/
+                - paragraph [ref=e351]:
+                  - link "182200…" [ref=e352] [cursor=pointer]:
+                    - /url: /1683818/
+              - generic [ref=e353]:
+                - generic [ref=e354]:
+                  - link "【股权转让】10年中成药厂，独家妇科专利新药，1万m²自有厂房，年销3000万。" [ref=e355] [cursor=pointer]:
+                    - /url: /rongzi/21066.html
+                  - generic [ref=e358]: 已托管
+                - generic [ref=e359]:
+                  - text: 企业资质：GMP合规中成药生产企业，10年运营，80人成熟团队；核心品种：国家新药妇科盆腔炎专利药，永久仿制壁垒，自研成本高，审批…
+                  - link "[更多]" [ref=e360] [cursor=pointer]:
+                    - /url: /rongzi/21066.html
+                - generic [ref=e361]:
+                  - link "融资并购" [ref=e363] [cursor=pointer]:
+                    - /url: /rongzi/
+                  - generic [ref=e364]: 悬赏：￥100.00
+                  - generic [ref=e365]: "剩余时间: 18天6时50分39秒"
+                  - generic [ref=e366]: IP：XX
+                  - link "立即参与" [ref=e368] [cursor=pointer]:
+                    - /url: /rongzi/21066.html
+        - link "More+" [ref=e369] [cursor=pointer]:
+          - /url: /list/recommend/?c=tj
+      - generic [ref=e370]:
+        - link "药智咨询" [ref=e371] [cursor=pointer]:
+          - /url: https://report.yaozh.com/?yaozh
+          - img "药智咨询" [ref=e372]
+        - generic [ref=e373]:
+          - generic [ref=e374]: 药智赏金榜
+          - list [ref=e376]:
+            - listitem [ref=e377]:
+              - emphasis [ref=e378]: "1"
+              - link "￥50000 求购化合物Napabucas…" [ref=e379] [cursor=pointer]:
+                - /url: /task/13183.html
+            - listitem [ref=e380]:
+              - emphasis [ref=e381]: "2"
+              - link "￥30000 求购波生坦小试合成工艺" [ref=e382] [cursor=pointer]:
+                - /url: /task/1456.html
+            - listitem [ref=e383]:
+              - emphasis [ref=e384]: "3"
+              - link "￥30000 求购：透明质酸钠凝胶、修复贴…" [ref=e385] [cursor=pointer]:
+                - /url: /task/19076.html
+            - listitem [ref=e386]:
+              - emphasis [ref=e387]: "4"
+              - link "￥10010 求助：顺苯磺阿曲库铵（苯磺顺…" [ref=e388] [cursor=pointer]:
+                - /url: /task/18340.html
+            - listitem [ref=e389]:
+              - emphasis [ref=e390]: "5"
+              - link "￥10000 重金求购药品相关商标" [ref=e391] [cursor=pointer]:
+                - /url: /task/2522.html
+            - listitem [ref=e392]:
+              - emphasis [ref=e393]: "6"
+              - link "￥10000 detemir制剂相关资料" [ref=e394] [cursor=pointer]:
+                - /url: /task/11987.html
+            - listitem [ref=e395]:
+              - emphasis [ref=e396]: "7"
+              - link "￥8640 参加青岛国际注册研发杂质专题…" [ref=e397] [cursor=pointer]:
+                - /url: /task/1298.html
+            - listitem [ref=e398]:
+              - emphasis [ref=e399]: "8"
+              - link "￥8640 药物概述21期任务2021-…" [ref=e400] [cursor=pointer]:
+                - /url: /task/18058.html
+        - link "药智通" [ref=e401] [cursor=pointer]:
+          - /url: https://s.yaozh.com/?yaozh
+          - img "药智通" [ref=e402]
+    - link "药智数据企业版" [ref=e403] [cursor=pointer]:
+      - /url: https://vip.yaozh.com/introduce?tryout=1https://vip.yaozh.com/introduce?tryout=1https://vip.yaozh.com/introduce
+      - img "药智数据企业版" [ref=e404]
+    - generic [ref=e405]:
+      - generic [ref=e406]:
+        - heading " 最新任务" [level=3] [ref=e407]:
+          - generic [ref=e408]: 
+          - text: 最新任务
+        - generic [ref=e409]:
+          - generic [ref=e410]:
+            - link "生产研发" [ref=e411] [cursor=pointer]:
+              - /url: /yanfa/
+            - link "定制服务" [ref=e412] [cursor=pointer]:
+              - /url: /dingzhi/
+            - link "项目合作" [ref=e413] [cursor=pointer]:
+              - /url: /hezuo/
+            - link "营销推广" [ref=e414] [cursor=pointer]:
+              - /url: /yingxiao/
+            - link "特色服务" [ref=e415] [cursor=pointer]:
+              - /url: /wenan/
+          - list [ref=e417]:
+            - listitem [ref=e418]:
+              - generic [ref=e419]:
+                - link [ref=e420] [cursor=pointer]:
+                  - /url: /1564663/
+                - paragraph [ref=e421]:
+                  - link "150600…" [ref=e422] [cursor=pointer]:
+                    - /url: /1564663/
+              - generic [ref=e423]:
+                - generic [ref=e424]:
+                  - link "求购一份肠内营养乳剂（TPF-D）中所用膳食纤维的具体成分及添加量" [ref=e425] [cursor=pointer]:
+                    - /url: /gongyi/21109.html
+                  - generic [ref=e426]: 1 投标
+                  - generic [ref=e428]: 已托管
+                - generic [ref=e429]:
+                  - text: 需要列出膳食纤维具体成分和具体的添加量
+                  - link "[更多]" [ref=e430] [cursor=pointer]:
+                    - /url: /gongyi/21109.html
+                - generic [ref=e431]:
+                  - link "工艺技术" [ref=e433] [cursor=pointer]:
+                    - /url: /gongyi/
+                  - generic [ref=e434]: 悬赏：￥200.00
+                  - generic [ref=e435]: "剩余时间: 34天6时50分39秒"
+                  - generic [ref=e436]: IP：厦门
+                  - link "立即参与" [ref=e438] [cursor=pointer]:
+                    - /url: /gongyi/21109.html
+            - listitem [ref=e439]:
+              - generic [ref=e440]:
+                - link [ref=e441] [cursor=pointer]:
+                  - /url: /1481587/
+                - paragraph [ref=e442]:
+                  - link "cxr6919" [ref=e443] [cursor=pointer]:
+                    - /url: /1481587/
+              - generic [ref=e444]:
+                - generic [ref=e445]:
+                  - link "求购GoodClinicalPracticeAQuestion&AnswerReferenceGuide2026/2027电子版" [ref=e446] [cursor=pointer]:
+                    - /url: /shiyan/21098.html
+                  - generic [ref=e449]: 已托管
+                - generic [ref=e450]:
+                  - text: 如题，Good Clinical Practice A Question & Answer Reference Guide…
+                  - link "[更多]" [ref=e451] [cursor=pointer]:
+                    - /url: /shiyan/21098.html
+                - generic [ref=e452]:
+                  - link "临床试验" [ref=e454] [cursor=pointer]:
+                    - /url: /shiyan/
+                  - generic [ref=e455]: 悬赏：￥50.00
+                  - generic [ref=e456]: "剩余时间: 4天6时50分39秒"
+                  - generic [ref=e457]: IP：无锡
+                  - link "立即参与" [ref=e459] [cursor=pointer]:
+                    - /url: /shiyan/21098.html
+            - listitem [ref=e460]:
+              - generic [ref=e461]:
+                - link [ref=e462] [cursor=pointer]:
+                  - /url: /327613/
+                - paragraph [ref=e463]:
+                  - link "nannan…" [ref=e464] [cursor=pointer]:
+                    - /url: /327613/
+              - generic [ref=e465]:
+                - generic [ref=e466]:
+                  - link "求购吡美莫司乳膏药品注册信息" [ref=e467] [cursor=pointer]:
+                    - /url: /fenxi/21095.html
+                  - generic [ref=e468]: 2 投标
+                  - generic [ref=e470]: 已托管
+                - generic [ref=e471]:
+                  - text: 要求内容有：1、鉴别2、检查：有关物质（已知杂质结构，限度；未知杂质和总杂质限度）3、含量（苯甲醇、吡美莫司）4、含量均匀度5、p…
+                  - link "[更多]" [ref=e472] [cursor=pointer]:
+                    - /url: /fenxi/21095.html
+                - generic [ref=e473]:
+                  - link "分析检测" [ref=e475] [cursor=pointer]:
+                    - /url: /fenxi/
+                  - generic [ref=e476]: 悬赏：￥50.00
+                  - generic [ref=e477]: "剩余时间: 4天6时50分39秒"
+                  - generic [ref=e478]: IP：福州
+                  - link "立即参与" [ref=e480] [cursor=pointer]:
+                    - /url: /fenxi/21095.html
+            - listitem [ref=e481]:
+              - generic [ref=e482]:
+                - link [ref=e483] [cursor=pointer]:
+                  - /url: /574914/
+                - paragraph [ref=e484]:
+                  - link "百年陈皮" [ref=e485] [cursor=pointer]:
+                    - /url: /574914/
+              - generic [ref=e486]:
+                - generic [ref=e487]:
+                  - link "求购碳酸氢钠注射液工艺信息表" [ref=e488] [cursor=pointer]:
+                    - /url: /gongyi/21083.html
+                  - generic [ref=e489]: 4 投标
+                  - generic [ref=e491]: 已托管
+                - generic [ref=e492]:
+                  - text: 求购碳酸氢钠注射液工艺信息表
+                  - link "[更多]" [ref=e493] [cursor=pointer]:
+                    - /url: /gongyi/21083.html
+                - generic [ref=e494]:
+                  - link "工艺技术" [ref=e496] [cursor=pointer]:
+                    - /url: /gongyi/
+                  - generic [ref=e497]: 悬赏：￥200.00
+                  - generic [ref=e498]: "剩余时间: 3天6时50分39秒"
+                  - generic [ref=e499]: IP：钦州
+                  - link "立即参与" [ref=e501] [cursor=pointer]:
+                    - /url: /gongyi/21083.html
+        - link "More+" [ref=e502] [cursor=pointer]:
+          - /url: //www.yaozh.com/list/?tuoguan=&fenpei=&zhuangtai=&fbtime=d&keytitle=&c=xq
+      - generic [ref=e503]:
+        - link "药智数据APP" [ref=e504] [cursor=pointer]:
+          - /url: https://db.yaozh.com/app?ga_source=db&ga_name=sumlink_dbty_top
+          - img "药智数据APP" [ref=e505]
+        - generic [ref=e506]:
+          - generic [ref=e507]: 精选任务
+          - list [ref=e509]:
+            - listitem [ref=e510]:
+              - link "￥100 求购皮肤制剂的M4格式注册申报资料模板（…" [ref=e511] [cursor=pointer]:
+                - /url: /task/20702.html
+            - listitem [ref=e512]:
+              - link "￥100 心脑血管类中药研发生产" [ref=e513] [cursor=pointer]:
+                - /url: /task/20699.html
+            - listitem [ref=e514]:
+              - link "￥50 求购替普瑞酮生产工艺资料模板" [ref=e515] [cursor=pointer]:
+                - /url: /task/20688.html
+            - listitem [ref=e516]:
+              - link "￥50 求购多替诺雷的原料药" [ref=e517] [cursor=pointer]:
+                - /url: /task/20686.html
+            - listitem [ref=e518]:
+              - link "￥50 求购马来酸麦角新碱注射液产品批文" [ref=e519] [cursor=pointer]:
+                - /url: /task/20685.html
+            - listitem [ref=e520]:
+              - link "￥50 50元奖励一条药智网中标信息查询数据库没…" [ref=e521] [cursor=pointer]:
+                - /url: /task/20658.html
+            - listitem [ref=e522]:
+              - link "￥200 蒙脱石散一致性评价技术申报学习模板" [ref=e523] [cursor=pointer]:
+                - /url: /task/20656.html
+            - listitem [ref=e524]:
+              - link "￥100 求购一份同名同方研发方案设计模板" [ref=e525] [cursor=pointer]:
+                - /url: /task/20655.html
+        - link "AI天然产物" [ref=e526] [cursor=pointer]:
+          - /url: https://npaiengine.yaozh.com/?tryout=1&ga_source=zhihui&ga_name=sy2_ad
+          - img "AI天然产物" [ref=e527]
+    - generic [ref=e528]:
+      - generic [ref=e529]:
+        - generic [ref=e530]:
+          - generic [ref=e531]: 新闻
+          - list [ref=e533]:
+            - listitem [ref=e534]:
+              - link "一季度，8家大药企营收实现两位数增长" [active] [ref=e535] [cursor=pointer]:
+                - /url: https://news.yaozh.com/archive/48168.html
+            - listitem [ref=e536]:
+              - link "首款！吉利德肝炎新药Hepcludex获批FDA" [ref=e537] [cursor=pointer]:
+                - /url: https://news.yaozh.com/archive/48164.html
+            - listitem [ref=e538]:
+              - link "单次给药、长期降脂！礼来公布基因疗法最新数据" [ref=e539] [cursor=pointer]:
+                - /url: https://news.yaozh.com/archive/48163.html
+            - listitem [ref=e540]:
+              - link "国产Biotech新锐，冲刺港交所" [ref=e541] [cursor=pointer]:
+                - /url: https://news.yaozh.com/archive/48158.html
+            - listitem [ref=e542]:
+              - link "重磅！强生自免新药尼卡利单抗国内获批" [ref=e543] [cursor=pointer]:
+                - /url: https://news.yaozh.com/archive/48154.html
+            - listitem [ref=e544]:
+              - link "核药70亿美元大单，箭在弦上" [ref=e545] [cursor=pointer]:
+                - /url: https://news.yaozh.com/archive/48151.html
+            - listitem [ref=e546]:
+              - link "知名仿制药CRO将易主" [ref=e547] [cursor=pointer]:
+                - /url: https://news.yaozh.com/archive/48152.html
+            - listitem [ref=e548]:
+              - link "肝癌药物风云起" [ref=e549] [cursor=pointer]:
+                - /url: https://news.yaozh.com/archive/48146.html
+          - link "More+" [ref=e550] [cursor=pointer]:
+            - /url: https://news.yaozh.com/?yaozh
+        - generic [ref=e551]:
+          - generic [ref=e552]: 会议
+          - list [ref=e554]:
+            - listitem [ref=e555]:
+              - link "最新议程公布！2026MDI-China医疗器械创新·合作大会" [ref=e556] [cursor=pointer]:
+                - /url: https://news.yaozh.com/meeting/detail/1927
+            - listitem [ref=e557]:
+              - link "组学星阵，沪上启航|第七届多组学科研与临床应用大会首批学术领袖…" [ref=e558] [cursor=pointer]:
+                - /url: https://news.yaozh.com/meeting/detail/1899
+            - listitem [ref=e559]:
+              - link "第六届肿瘤治疗与转化医学国际研讨会(CTTM2026)" [ref=e560] [cursor=pointer]:
+                - /url: https://news.yaozh.com/meeting/detail/1919
+            - listitem [ref=e561]:
+              - link "从框架到细节！2026药未来峰会完整议程重磅上线——盛杰&am…" [ref=e562] [cursor=pointer]:
+                - /url: https://news.yaozh.com/meeting/detail/1934
+            - listitem [ref=e563]:
+              - link "【活动邀请】数智赋能，链启未来丨2026全球医药供应链(中国)…" [ref=e564] [cursor=pointer]:
+                - /url: https://news.yaozh.com/meeting/detail/1898
+            - listitem [ref=e565]:
+              - link "2026中国温州生物医药产业大会" [ref=e566] [cursor=pointer]:
+                - /url: https://news.yaozh.com/meeting/detail/1892
+            - listitem [ref=e567]:
+              - link "2026上海国际医疗器械展览会6月24-26日举办" [ref=e568] [cursor=pointer]:
+                - /url: https://news.yaozh.com/meeting/detail/1856
+            - listitem [ref=e569]:
+              - link "第六届世界癌症研究大会（SWCR2026）" [ref=e570] [cursor=pointer]:
+                - /url: https://news.yaozh.com/meeting/detail/1895
+          - link "More+" [ref=e571] [cursor=pointer]:
+            - /url: https://meeting.yaozh.com/
+      - generic [ref=e572]:
+        - generic [ref=e573]:
+          - text: 药智客明星榜
+          - generic [ref=e574]: 
+        - table [ref=e576]:
+          - rowgroup [ref=e577]:
+            - row "药智客 任务数 赏金" [ref=e578]:
+              - columnheader "药智客" [ref=e579]
+              - columnheader "任务数" [ref=e580]
+              - columnheader "赏金" [ref=e581]
+          - rowgroup [ref=e582]:
+            - row "1 cnli… 182 107988.00" [ref=e583]:
+              - cell "1 cnli…" [ref=e584]:
+                - link [ref=e585] [cursor=pointer]:
+                  - /url: javascript:;
+                - generic [ref=e586]: "1"
+                - link "cnli…" [ref=e588] [cursor=pointer]:
+                  - /url: javascript:;
+              - cell "182" [ref=e589]
+              - cell "107988.00" [ref=e590]
+            - row "2 MULA… 1 80000.00" [ref=e591]:
+              - cell "2 MULA…" [ref=e592]:
+                - link [ref=e593] [cursor=pointer]:
+                  - /url: javascript:;
+                - generic [ref=e594]: "2"
+                - link "MULA…" [ref=e596] [cursor=pointer]:
+                  - /url: javascript:;
+              - cell "1" [ref=e597]
+              - cell "80000.00" [ref=e598]
+            - row "3 1234… 60 64398.00" [ref=e599]:
+              - cell "3 1234…" [ref=e600]:
+                - link [ref=e601] [cursor=pointer]:
+                  - /url: javascript:;
+                - generic [ref=e602]: "3"
+                - link "1234…" [ref=e604] [cursor=pointer]:
+                  - /url: javascript:;
+              - cell "60" [ref=e605]
+              - cell "64398.00" [ref=e606]
+            - row "clev… 2 50050.00" [ref=e607]:
+              - cell "clev…" [ref=e608]:
+                - link [ref=e609] [cursor=pointer]:
+                  - /url: javascript:;
+                - link "clev…" [ref=e611] [cursor=pointer]:
+                  - /url: javascript:;
+              - cell "2" [ref=e612]
+              - cell "50050.00" [ref=e613]
+            - row "wuji3 2 30000.00" [ref=e614]:
+              - cell "wuji3" [ref=e615]:
+                - link [ref=e616] [cursor=pointer]:
+                  - /url: javascript:;
+                - link "wuji3" [ref=e618] [cursor=pointer]:
+                  - /url: javascript:;
+              - cell "2" [ref=e619]
+              - cell "30000.00" [ref=e620]
+    - link "药智器械" [ref=e621] [cursor=pointer]:
+      - /url: https://qx.yaozh.com/introduce?tryout=1&ga_source=zhihui&ga_name=index_slide_ad
+      - img "药智器械" [ref=e622]
+  - generic [ref=e624]:
+    - generic [ref=e625]:
+      - term [ref=e626]: 药智客权益保障
+      - definition [ref=e627]: 赏金托管，可放心工作
+    - generic [ref=e628]:
+      - term [ref=e629]: 任务主权益保障
+      - definition [ref=e630]: 无有效稿件，赏金全额退还
+    - generic [ref=e631]:
+      - term [ref=e632]: 药智汇专业服务
+      - definition [ref=e633]: 药智汇提供担保与服务
+  - generic [ref=e635]:
+    - generic [ref=e636]:
+      - generic [ref=e637]:
+        - generic [ref=e638]:
+          - generic [ref=e639]:
+            - generic [ref=e640]: 
+            - text: 新手入门
+          - list [ref=e641]:
+            - listitem [ref=e642]:
+              - link "了解我们" [ref=e643] [cursor=pointer]:
+                - /url: //help.yaozh.com/help45.html
+            - listitem [ref=e644]:
+              - link "新手上路" [ref=e645] [cursor=pointer]:
+                - /url: //help.yaozh.com/list114/
+            - listitem [ref=e646]:
+              - link "药智规则" [ref=e647] [cursor=pointer]:
+                - /url: //help.yaozh.com/list106/
+            - listitem [ref=e648]:
+              - link "联系客服" [ref=e649] [cursor=pointer]:
+                - /url: //help.yaozh.com/help224.html
+        - generic [ref=e650]:
+          - generic [ref=e651]:
+            - generic [ref=e652]: 
+            - text: 安全保障
+          - list [ref=e653]:
+            - listitem [ref=e654]:
+              - link "认证中心" [ref=e655] [cursor=pointer]:
+                - /url: //help.yaozh.com/list102/
+            - listitem [ref=e656]:
+              - link "服务指南" [ref=e657] [cursor=pointer]:
+                - /url: //help.yaozh.com/list103/
+            - listitem [ref=e658]:
+              - link "保障中心" [ref=e659] [cursor=pointer]:
+                - /url: //help.yaozh.com/help228.html
+            - listitem [ref=e660]:
+              - link "申请发票" [ref=e661] [cursor=pointer]:
+                - /url: //help.yaozh.com/help227.html
+        - generic [ref=e662]:
+          - generic [ref=e663]:
+            - generic [ref=e664]: 
+            - text: 付款方式
+          - list [ref=e665]:
+            - listitem [ref=e666]:
+              - link "在线支付" [ref=e667] [cursor=pointer]:
+                - /url: //about.yaozh.com/pay.html
+            - listitem [ref=e668]:
+              - link "邮局汇款" [ref=e669] [cursor=pointer]:
+                - /url: //about.yaozh.com/pay.html
+            - listitem [ref=e670]:
+              - link "公司转账" [ref=e671] [cursor=pointer]:
+                - /url: //about.yaozh.com/pay.html
+      - generic [ref=e672]:
+        - paragraph [ref=e673]: 联系我们
+        - generic [ref=e675]: 周一至周五 9：00-18：00
+        - link [ref=e677] [cursor=pointer]:
+          - /url: javascript:void(0)
+          - img [ref=e678]
+      - generic [ref=e679]:
+        - generic [ref=e681]:
+          - paragraph [ref=e682]:
+            - img [ref=e683]
+          - paragraph [ref=e684]: 药智数据
+        - generic [ref=e685]:
+          - paragraph [ref=e686]:
+            - img [ref=e687]
+          - paragraph [ref=e688]: 药智数据试用申请
+        - generic [ref=e689]:
+          - paragraph [ref=e690]:
+            - img [ref=e691]
+          - paragraph [ref=e692]: 药智医械公众号
+    - generic [ref=e693]:
+      - paragraph [ref=e694]:
+        - link "关于我们" [ref=e695] [cursor=pointer]:
+          - /url: //about.yaozh.com/about.html
+        - text: "|"
+        - link "联系我们" [ref=e696] [cursor=pointer]:
+          - /url: //about.yaozh.com/contact.html
+        - text: "|"
+        - link "企业资质" [ref=e697] [cursor=pointer]:
+          - /url: //about.yaozh.com/qualification.html
+        - text: "|"
+        - link "诚聘英才" [ref=e698] [cursor=pointer]:
+          - /url: //about.yaozh.com/join.html
+        - text: "|"
+        - link "友情链接" [ref=e699] [cursor=pointer]:
+          - /url: //about.yaozh.com/link.html
+        - text: "|"
+        - link "帮助中心" [ref=e700] [cursor=pointer]:
+          - /url: //help.yaozh.com/
+        - text: "|"
+        - link "媒体报道" [ref=e701] [cursor=pointer]:
+          - /url: //news.yaozh.com/
+        - text: "|"
+        - link "网站地图" [ref=e702] [cursor=pointer]:
+          - /url: //www.yaozh.com/zhihui/sitemap1
+        - text: "|"
+        - link "用户体验提升计划" [ref=e703] [cursor=pointer]:
+          - /url: //www.yaozh.com/ued?source=www&name=zhihui_footer
+      - paragraph [ref=e704]:
+        - link "渝ICP备10200070号-3" [ref=e705] [cursor=pointer]:
+          - /url: https://beian.miit.gov.cn/
+        - text: 互联网增值电信业务许可证编号： 渝B2-20120028 互联网药品信息服务资格证： (渝)-经营性-2021-0017
+      - paragraph [ref=e706]: 康洲大数据 Copyright © 2009-2026 药智网 YAOZH.COM All Rights Reserved.
+      - paragraph [ref=e707]: 客户服务热线： 400-678-0778 邮箱： tousu@yaozh.com
+      - link "渝公网安备 50010802001068号" [ref=e708] [cursor=pointer]:
+        - /url: http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=50010802001068
+        - img [ref=e709]
+        - paragraph [ref=e710]: 渝公网安备 50010802001068号
+      - link "平台公约" [ref=e711] [cursor=pointer]:
+        - /url: /zhihui/convention
+      - paragraph [ref=e713]: 友情链接：
+  - generic [ref=e714]:
+    - link "药智网 公众号" [ref=e715] [cursor=pointer]:
+      - /url: javascript:;
+      - generic [ref=e716]: 药智网
+      - generic [ref=e717]: 公众号
+    - link "药智 APP" [ref=e718] [cursor=pointer]:
+      - /url: javascript:;
+      - generic [ref=e719]: 药智
+      - generic [ref=e720]: APP
+    - link " 客服" [ref=e721] [cursor=pointer]:
+      - /url: javascript:;
+      - generic [ref=e722]: 
+      - generic [ref=e723]: 客服
+    - link " 反馈" [ref=e724] [cursor=pointer]:
+      - /url: //www.yaozh.com/ued/feedback?source=zhihui&name=feedback
+      - generic [ref=e725]: 
+      - generic [ref=e726]: 反馈
+    - link " 回到顶部" [ref=e727] [cursor=pointer]:
+      - /url: javascript:;
+      - generic [ref=e728]: 
+      - generic [ref=e729]: 回到顶部
+  - insertion

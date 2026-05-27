@@ -1,0 +1,608 @@
+- generic [ref=e6]:
+  - generic [ref=e7]:
+    - generic [ref=e8]:
+      - generic [ref=e9]:
+        - generic [ref=e10]:
+          - link "药智网" [ref=e11] [cursor=pointer]:
+            - /url: https://www.yaozh.com
+          - link "药智数据" [ref=e12] [cursor=pointer]:
+            - /url: https://db.yaozh.com/
+          - link "药智医械数据" [ref=e13] [cursor=pointer]:
+            - /url: https://qx.yaozh.com/
+          - link "专利通" [ref=e14] [cursor=pointer]:
+            - /url: https://patent.yaozh.com/
+          - link "药智咨询" [ref=e15] [cursor=pointer]:
+            - /url: https://report.yaozh.com/?yaozh
+          - link "药智汇" [ref=e16] [cursor=pointer]:
+            - /url: https://www.yaozh.com/zhihui/
+          - link "药智通" [ref=e17] [cursor=pointer]:
+            - /url: https://s.yaozh.com/
+          - link "CRO" [ref=e18] [cursor=pointer]:
+            - /url: https://s.yaozh.com/Cro/index
+          - link "药智大讲堂" [ref=e19] [cursor=pointer]:
+            - /url: https://edu.yaozh.com/
+          - link "精英汇" [ref=e20] [cursor=pointer]:
+            - /url: https://club.yaozh.com/
+          - link "产业大脑" [ref=e21] [cursor=pointer]:
+            - /url: https://aiyun.yaozh.com/?ga_source=news&ga_name=top_navigationbar
+        - generic [ref=e22]:
+          - generic [ref=e23]: 登录 注册
+          - generic [ref=e25] [cursor=pointer]:
+            - link " 移动端":
+              - /url: https://db.yaozh.com/app?ga_source=www&ga_name=sumlink_wwwty_top
+              - generic [ref=e26]: 
+              - generic [ref=e27]: 移动端
+      - generic [ref=e32]:
+        - link "logo" [ref=e34] [cursor=pointer]:
+          - /url: /
+          - img "logo" [ref=e35]
+        - generic [ref=e36]:
+          - list [ref=e37]:
+            - listitem [ref=e38]:
+              - link "时讯 " [ref=e39] [cursor=pointer]:
+                - /url: /archivelist/24
+                - generic [ref=e40]:
+                  - generic [ref=e41]: 时讯
+                  - generic [ref=e42]: 
+            - listitem [ref=e43]:
+              - link "政策 " [ref=e44] [cursor=pointer]:
+                - /url: /archivelist/27
+                - generic [ref=e45]:
+                  - generic [ref=e46]: 政策
+                  - generic [ref=e47]: 
+            - listitem [ref=e48]:
+              - link "研发 " [ref=e49] [cursor=pointer]:
+                - /url: /archivelist/26
+                - generic [ref=e50]:
+                  - generic [ref=e51]: 研发
+                  - generic [ref=e52]: 
+            - listitem [ref=e53]:
+              - link "前沿 " [ref=e54] [cursor=pointer]:
+                - /url: /archivelist/29
+                - generic [ref=e55]:
+                  - generic [ref=e56]: 前沿
+                  - generic [ref=e57]: 
+            - listitem [ref=e58]:
+              - link "商业 " [ref=e59] [cursor=pointer]:
+                - /url: /archivelist/28
+                - generic [ref=e60]:
+                  - generic [ref=e61]: 商业
+                  - generic [ref=e62]: 
+            - listitem [ref=e63]:
+              - link "药圈 " [ref=e64] [cursor=pointer]:
+                - /url: /archivelist/31
+                - generic [ref=e65]:
+                  - generic [ref=e66]: 药圈
+                  - generic [ref=e67]: 
+            - listitem [ref=e68]:
+              - link "报告 " [ref=e69] [cursor=pointer]:
+                - /url: /archivelist/30
+                - generic [ref=e70]:
+                  - generic [ref=e71]: 报告
+                  - generic [ref=e72]: 
+            - listitem [ref=e73]:
+              - link "深度 " [ref=e74] [cursor=pointer]:
+                - /url: /archivelist/25
+                - generic [ref=e75]:
+                  - generic [ref=e76]: 深度
+                  - generic [ref=e77]: 
+            - listitem [ref=e78]:
+              - link "器械 " [ref=e79] [cursor=pointer]:
+                - /url: /archivelist/17
+                - generic [ref=e80]:
+                  - generic [ref=e81]: 器械
+                  - generic [ref=e82]: 
+            - listitem [ref=e83]:
+              - link "会展 " [ref=e84] [cursor=pointer]:
+                - /url: /meeting/32
+                - generic [ref=e85]:
+                  - generic [ref=e86]: 会展
+                  - generic [ref=e87]: 
+          - textbox [ref=e90]
+    - generic [ref=e92]:
+      - generic [ref=e94]:
+        - heading "一季度，8家大药企营收实现两位数增长" [level=1] [ref=e95]
+        - generic [ref=e96]:
+          - generic [ref=e97]:
+            - link:
+              - /url: /writer/6
+            - generic [ref=e98]: 药智网
+            - text: 来源：药智网 4732
+            - link "0" [ref=e99] [cursor=pointer]:
+              - /url: "#pinglun"
+          - generic [ref=e100]:
+            - generic [ref=e101] [cursor=pointer]:
+              - text: A
+              - superscript [ref=e102]: +
+            - generic [ref=e103] [cursor=pointer]:
+              - text: A
+              - superscript [ref=e104]: "-"
+        - generic [ref=e105]:
+          - generic [ref=e107]:
+            - generic [ref=e110]: "2026"
+            - generic [ref=e112]: 05/26
+            - generic [ref=e115]: 分享
+            - generic [ref=e116]:
+              - link [ref=e121] [cursor=pointer]:
+                - /url: http://connect.qq.com/widget/shareqq/index.html?url=https://news.yaozh.com/archive/48168.html&sharesource=qzone&title=一季度，8家大药企营收实现两位数增长&pics=你的分享图片地址&summary=药企财报&desc=你的分享简述
+              - link [ref=e124] [cursor=pointer]:
+                - /url: https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https://news.yaozh.com/archive/48168.html&sharesource=qzone&title=一季度，8家大药企营收实现两位数增长&pics=你的分享图片&summary=药企财报
+              - link [ref=e127] [cursor=pointer]:
+                - /url: http://service.weibo.com/share/share.php?url=https://news.yaozh.com/archive/48168.html&sharesource=weibo&title=一季度，8家大药企营收实现两位数增长&pic=你的分享图片&appkey=你的key，需要在新浪微博开放平台中申请
+          - generic [ref=e128]:
+            - generic [ref=e129]:
+              - generic [ref=e130]:
+                - generic [ref=e131]: 导读：增长仍是主旋律
+                - generic [ref=e137]:
+                  - paragraph [ref=e138]:
+                    - generic [ref=e139]: 2026年第一季度，全球制药行业业绩表现明显回升，排名前25的药企中有8家实现两位数增长，而2025年四个季度中，每季度只有6家药企实现两位数增长。
+                  - paragraph [ref=e140]
+                  - img [ref=e142]
+                  - paragraph [ref=e143]:
+                    - generic [ref=e144]: 图片来源：参考资料1
+                  - paragraph [ref=e145]
+                  - paragraph [ref=e146]:
+                    - generic [ref=e147]: 其中礼来以56%的营收增幅遥遥领先，再生元（+19%）、阿斯利康（+13%）、艾伯维（+12%）、山德士（+11%）强生（+10%）和日本药企安斯泰来（+17%）、第一三共（+13%）也在第一季度实现了两位数的增长。
+                  - paragraph [ref=e148]
+                  - generic [ref=e150]:
+                    - generic [ref=e153]:
+                      - img
+                    - paragraph [ref=e157]:
+                      - strong [ref=e158]: "01"
+                    - generic [ref=e161]:
+                      - img
+                  - paragraph [ref=e162]:
+                    - generic [ref=e163]: GLP-1赛道新一轮博弈开场
+                  - paragraph [ref=e164]
+                  - paragraph [ref=e165]:
+                    - generic [ref=e166]: 礼来位居业绩涨幅榜首毫不令人意外。不过，其56%的增速仍令人瞠目，营收达到198亿美元，超出市场预期。
+                  - paragraph [ref=e167]
+                  - paragraph [ref=e168]:
+                    - generic [ref=e169]: 替尔泊肽的糖尿病版Mounjaro销售额增长125%，达到87亿美元；减肥版Zepbound则揽入42亿美元，增幅达80%。两款产品销售额合计约128亿美元，不断刷新单款药物销售额上限。
+                  - paragraph [ref=e170]
+                  - paragraph [ref=e171]:
+                    - generic [ref=e172]: 凭借一季度的亮眼表现，礼来将2026年全年营收预期上调了20亿美元，至820-850亿美元区间。
+                  - paragraph [ref=e173]
+                  - paragraph [ref=e174]:
+                    - generic [ref=e175]: 比较而言，礼来在GLP-1市场的竞争对手诺和诺德则没那么乐观了。
+                  - paragraph [ref=e176]
+                  - paragraph [ref=e177]:
+                    - generic [ref=e178]: 诺和诺德一季度销售额为968.23亿丹麦克朗，按恒定汇率（CER）计算增长32%。然而，这一高增长主要得益于与美国340B药品定价计划相关的一笔42亿美元（约合268亿丹麦克朗）的销售回购准备转回。若剔除上述一次性影响，诺和诺德2026年Q1的调整后销售额为700.63亿丹麦克朗，按CER计算下降了4%。
+                  - paragraph [ref=e179]
+                  - paragraph [ref=e180]:
+                    - generic [ref=e181]: 其司美格鲁肽全系列产品合计销售额528.88亿丹麦克朗（约83亿美元），同比下滑约5%。细分来看，降糖产品包括注射版Ozempic销售额同比下滑8%，口服版Rybelsus下滑15%；减重产品注射版Wegovy销售额增长12%，成为仍在增长的亮点。
+                  - paragraph [ref=e182]
+                  - paragraph [ref=e183]:
+                    - generic [ref=e184]: 此外，今年1月，Wegovy片剂正式在美国商业化，当季实现销售额22.56亿丹麦克朗。其一季度累计处方量约130万张，成为美国市场放量最快的口服GLP-1药物。
+                  - paragraph [ref=e185]
+                  - paragraph [ref=e186]:
+                    - generic [ref=e187]: 考虑到GLP-1产品预期的提升，诺和诺德调整了全年预期，预计销售额将下降4%至12%，较2月份给出的下降5%至13%的指引略有收窄。
+                  - paragraph [ref=e188]
+                  - paragraph [ref=e189]:
+                    - generic [ref=e190]: 在今年，礼来也推出了口服GLP-1药物Foundayo（orforglipron），于2026年4月获得FDA批准，成为全球首个小分子口服GLP-1药物。该药的优势在于小分子属性，它可在全天任意时间服用，不受饮食和饮水限制，也不需要冷链运输和保存。
+                  - paragraph [ref=e191]
+                  - paragraph [ref=e192]:
+                    - generic [ref=e193]: 这也意味着，GLP-1赛道的竞争正从注射剂向口服剂全面延伸。对长期体重管理市场来说，口服药能够补齐“依从性”这块关键拼图，为不愿持续注射的患者提供了治疗选择。
+                  - paragraph [ref=e194]
+                  - generic [ref=e196]:
+                    - generic [ref=e199]:
+                      - img
+                    - paragraph [ref=e203]:
+                      - strong [ref=e204]: "02"
+                    - generic [ref=e207]:
+                      - img
+                  - paragraph [ref=e208]:
+                    - generic [ref=e209]: 自免、肿瘤、生物类似药多线开花
+                  - paragraph [ref=e210]
+                  - paragraph [ref=e211]:
+                    - generic [ref=e212]: 除了GLP-1赛道，还有多个细分赛道展现潜力。
+                  - paragraph [ref=e213]
+                  - paragraph [ref=e214]:
+                    - generic [ref=e215]: 自免赛道在更新迭代中保持着稳健增长。
+                  - paragraph [ref=e216]
+                  - paragraph [ref=e217]:
+                    - generic [ref=e218]: 艾伯维已彻底摆脱修美乐阴影，连续两个季度实现两位数增长。其自免双子星IL-23抑制剂Skyrizi（利生奇珠单抗）和JAK抑制剂Rinvoq（乌帕替尼）成功接棒。一季度Skyrizi销售额增长29.2%至44.8亿美元，Rinvoq增长20.2%至21.2亿美元。两款药物销售额均有望在今年超过百亿美元。
+                  - paragraph [ref=e219]
+                  - paragraph [ref=e220]:
+                    - generic [ref=e221]: 这不仅意味着艾伯维填平了修美乐专利到期留下的200亿美元“巨坑”，更证明了大型药企能够在一个成熟靶点失效后，依靠迭代创新实现业务的整体跃迁。
+                  - paragraph [ref=e222]
+                  - paragraph [ref=e223]:
+                    - generic [ref=e224]: 再生元则凭借Dupixent的持续扩张，实现了自2021年以来的最高单季增长（+19%）。
+                  - paragraph [ref=e225]
+                  - paragraph [ref=e226]:
+                    - generic [ref=e227]: 该药一季度销售额增长33%，达到49亿美元。增长主要得益于近期新获批的慢性阻塞性肺病、慢性自发性荨麻疹、大疱性类天疱疮等适应症的拓展。
+                  - paragraph [ref=e228]
+                  - paragraph [ref=e229]:
+                    - generic [ref=e230]: 肿瘤领域，ADC表现亮眼。
+                  - paragraph [ref=e231]
+                  - paragraph [ref=e232]:
+                    - generic [ref=e233]: 阿斯利康与第一三共合作开发的HER2 ADC德曲妥珠单抗（Enhertu）保持ADC领域的统治地位，一季度全球销售额为14.22亿美元，同比增长34%。
+                  - paragraph [ref=e234]
+                  - paragraph [ref=e235]:
+                    - generic [ref=e236]: Enhertu凭借其独特的DXd-ADC技术平台，具备药物抗体比高、旁观者效应强、半衰期长等优势，在乳腺癌治疗领域具有里程碑式意义。而2026年以来，其在中国市场的适应症突破以及全球适应症的持续拓展，销售额持续上涨。
+                  - paragraph [ref=e237]
+                  - paragraph [ref=e238]:
+                    - generic [ref=e239]: 该药的销售额增长也是驱动日本药企第一三共业绩增长的关键因素。不过，自2023财年营收增长达到25%的峰值后，这家ADC巨头的营收增速已放缓至2024财年的17%、2025财年的13%，其公布的预测数据显示2026财年将进一步降至7%。
+                  - paragraph [ref=e240]
+                  - paragraph [ref=e241]:
+                    - generic [ref=e242]: 日本另一家制药巨头安斯泰来则在2025财年实现营收增长12%。
+                  - paragraph [ref=e243]
+                  - paragraph [ref=e244]:
+                    - generic [ref=e245]: 其中Nectin-4 ADC药物Padcev销售额同比增长35%达到2212亿日元。该药此前已在晚期尿路上皮癌领域占据重要地位，在去年又拿下肌层浸润性膀胱癌（MIBC）这一大适应症，进一步提升了市场空间。
+                  - paragraph [ref=e246]
+                  - paragraph [ref=e247]:
+                    - generic [ref=e248]: 此外，艾伯维的FRαADC药物Elahere（索米妥昔单抗）表现强劲，一季度收入达到1.98亿美元（+10.7%），今年或将加入十亿美元分子俱乐部。
+                  - paragraph [ref=e249]
+                  - paragraph [ref=e250]:
+                    - generic [ref=e251]: 值得注意的是，近年来国产ADC密集进入临床后期和上市阶段，未来或将改写由跨国药企主导的竞争版图。
+                  - paragraph [ref=e252]
+                  - paragraph [ref=e253]:
+                    - generic [ref=e254]: 但集中爆发也意味着，HER2、TROP2等热门靶点已迅速拥挤，若创新仅停留在“改良”层面而缺乏根本性突破，恐难避免价格战与同质化淘汰潮。
+                  - paragraph [ref=e255]
+                  - img [ref=e257]
+                  - paragraph [ref=e258]:
+                    - generic [ref=e259]: 已上市的国产ADC新药
+                  - paragraph [ref=e260]:
+                    - generic [ref=e261]: 图片来源：药智数据-全球药物分析系统
+                  - paragraph [ref=e262]
+                  - img [ref=e264]
+                  - img [ref=e266]
+                  - paragraph [ref=e267]:
+                    - generic [ref=e268]: 近几年有望上市的国产ADC新药
+                  - paragraph [ref=e269]:
+                    - generic [ref=e270]: 图片来源：药智数据-全球药物分析系统
+                  - paragraph [ref=e271]
+                  - paragraph [ref=e272]:
+                    - generic [ref=e273]: 整体增长趋势下，还有部分药企因“专利悬崖”业绩面临挑战。
+                  - paragraph [ref=e274]
+                  - paragraph [ref=e275]:
+                    - generic [ref=e276]: 诺华一季度营收下滑1%，核心原因是心衰药物Entresto在美国遭遇仿制药竞争，一季度销售额从2025年同期的23亿美元骤降至13亿美元，全年预计损失40亿美元。
+                  - paragraph [ref=e277]
+                  - paragraph [ref=e278]:
+                    - generic [ref=e279]: 拜耳则因抗凝药Xarelto（利伐沙班）和眼病重磅产品Eylea（阿柏西普）面临仿制药及生物类似药竞争，其制药与消费者健康部门合计销售额在一季度下滑7%。公司预计，相关影响将在下半年减弱。
+                  - paragraph [ref=e280]
+                  - paragraph [ref=e281]:
+                    - generic [ref=e282]: 但这些重磅药物的专利到期，也给了仿制药和生物类似药机会。
+                  - paragraph [ref=e283]
+                  - paragraph [ref=e284]:
+                    - generic [ref=e285]: 山德士（Sandoz）一季度生物类似药净销售额同比激增18%，达到8.53亿美元，成为拉动整体营收增长的核心引擎。其中，Humira生物类似药Hyrimoz以及新上市的Eylea仿制药Afqlir成为核心驱动力。
+                  - paragraph [ref=e286]
+                  - generic [ref=e288]:
+                    - generic [ref=e291]:
+                      - img
+                    - paragraph [ref=e295]:
+                      - strong [ref=e296]: "03"
+                    - generic [ref=e299]:
+                      - img
+                  - paragraph [ref=e300]:
+                    - generic [ref=e301]: 结语
+                  - paragraph [ref=e302]
+                  - paragraph [ref=e303]:
+                    - generic [ref=e304]: 整体来看，2026年一季度全球制药行业在分化中延续增长主旋律。GLP-1赛道正从注射剂向口服剂全面延伸，礼来凭借替尔泊肽的爆发式增长强势领跑，诺和诺德则在阵痛中寻求新平衡。自免与肿瘤领域，迭代创新驱动重磅品种接力，艾伯维、再生元、阿斯利康等巨头用新一代产品证明了穿越专利悬崖的能力。与此同时，ADC赛道热度不减，但靶点同质化与内卷风险已现端倪，国产新药蓄势待发，未来格局或将重塑。专利悬崖的另一面，仿制药与生物类似药正迎来属于自己的机会。
+                  - paragraph [ref=e305]
+                  - paragraph [ref=e306]:
+                    - generic [ref=e307]: 参考资料：
+                  - paragraph [ref=e308]:
+                    - generic [ref=e309]: 1.https://www.fiercepharma.com/pharma/lilly-abbvie-jj-az-lead-uptick-biopharma-growth-q1
+                  - paragraph [ref=e310]:
+                    - generic [ref=e311]: 2.智数据-全球药物分析系统
+                  - paragraph [ref=e312]
+                  - generic [ref=e314]:
+                    - text: 声明：本内容仅用作医药行业信息传播，为作者独立观点，不代表药智网立场。如需转载，请务必注明文章作者和来源。
+                    - generic [ref=e315]:
+                      - text: 对本文有异议或投诉，请联系
+                      - generic [ref=e316]: maxuelian@yaozh.com
+                    - generic [ref=e317]: 。
+                  - separator [ref=e318]
+                  - generic [ref=e320]:
+                    - paragraph [ref=e321]:
+                      - generic [ref=e322]:
+                        - strong [ref=e323]:
+                          - generic [ref=e324]: 责任编辑
+                        - generic [ref=e325]: "| 小月石"
+                    - generic [ref=e326]:
+                      - paragraph [ref=e327]:
+                        - generic [ref=e328]:
+                          - strong [ref=e329]:
+                            - generic [ref=e330]: 合作、投稿、转载开白
+                          - generic [ref=e331]:
+                            - generic [ref=e332]: "|"
+                            - generic [ref=e333]: 马
+                          - generic [ref=e334]:
+                            - generic [ref=e335]: 老师
+                            - generic [ref=e336]: 18323856316（同微信）
+                      - img [ref=e344]
+                    - img [ref=e353]
+              - generic [ref=e357]:
+                - generic [ref=e358]: 相关标签： 药企财报
+                - generic [ref=e360]:
+                  - generic "点赞" [ref=e361] [cursor=pointer]: "0"
+                  - generic "收藏" [ref=e362] [cursor=pointer]: "0"
+            - generic [ref=e365]:
+              - generic [ref=e366]: 热门评论
+              - generic [ref=e368]:
+                - text: 请先
+                - link "登录" [ref=e369] [cursor=pointer]:
+                  - /url: https://www.yaozh.com/login
+                - text: 再做评论~
+              - generic [ref=e371] [cursor=pointer]: 发布
+            - generic [ref=e374]:
+              - generic [ref=e375]: 延伸阅读
+              - generic [ref=e379]:
+                - link "HCW Biologics：单月暴涨415%，融合免疫疗法黑... 融合免疫疗法 2026-05-26" [ref=e382] [cursor=pointer]:
+                  - /url: /archive/48160.html
+                  - generic [ref=e383]:
+                    - generic [ref=e384]: HCW Biologics：单月暴涨415%，融合免疫疗法黑...
+                    - generic [ref=e385]:
+                      - generic "融合免疫疗法" [ref=e387]
+                      - generic [ref=e388]: 2026-05-26
+                - link "SCN10A（Nav1.8）靶点：非成瘾镇痛新赛道与全球研发... SCN10A 2026-05-26" [ref=e391] [cursor=pointer]:
+                  - /url: /archive/48159.html
+                  - generic [ref=e392]:
+                    - generic [ref=e393]: SCN10A（Nav1.8）靶点：非成瘾镇痛新赛道与全球研发...
+                    - generic [ref=e394]:
+                      - generic "SCN10A" [ref=e396]
+                      - generic [ref=e397]: 2026-05-26
+                - link "3类高值耗材，接续采购启动 带量采购 2026-05-26" [ref=e400] [cursor=pointer]:
+                  - /url: /archive/48170.html
+                  - generic [ref=e401]:
+                    - generic [ref=e402]: 3类高值耗材，接续采购启动
+                    - generic [ref=e403]:
+                      - generic "带量采购" [ref=e405]
+                      - generic [ref=e406]: 2026-05-26
+                - link "单次给药、长期降脂！礼来公布基因疗法最新数据 礼来 2026-05-26" [ref=e409] [cursor=pointer]:
+                  - /url: /archive/48163.html
+                  - generic [ref=e410]:
+                    - generic [ref=e411]: 单次给药、长期降脂！礼来公布基因疗法最新数据
+                    - generic [ref=e412]:
+                      - generic "礼来" [ref=e414]
+                      - generic [ref=e415]: 2026-05-26
+                - link "HCW Biologics：单月暴涨415%，融合免疫疗法黑... 融合免疫疗法 2026-05-26" [ref=e418] [cursor=pointer]:
+                  - /url: /archive/48160.html
+                  - generic [ref=e419]:
+                    - generic [ref=e420]: HCW Biologics：单月暴涨415%，融合免疫疗法黑...
+                    - generic [ref=e421]:
+                      - generic "融合免疫疗法" [ref=e423]
+                      - generic [ref=e424]: 2026-05-26
+                - link "SCN10A（Nav1.8）靶点：非成瘾镇痛新赛道与全球研发... SCN10A 2026-05-26" [ref=e427] [cursor=pointer]:
+                  - /url: /archive/48159.html
+                  - generic [ref=e428]:
+                    - generic [ref=e429]: SCN10A（Nav1.8）靶点：非成瘾镇痛新赛道与全球研发...
+                    - generic [ref=e430]:
+                      - generic "SCN10A" [ref=e432]
+                      - generic [ref=e433]: 2026-05-26
+                - link "3类高值耗材，接续采购启动 带量采购 2026-05-26" [ref=e436] [cursor=pointer]:
+                  - /url: /archive/48170.html
+                  - generic [ref=e437]:
+                    - generic [ref=e438]: 3类高值耗材，接续采购启动
+                    - generic [ref=e439]:
+                      - generic "带量采购" [ref=e441]
+                      - generic [ref=e442]: 2026-05-26
+                - link "单次给药、长期降脂！礼来公布基因疗法最新数据 礼来 2026-05-26" [ref=e445] [cursor=pointer]:
+                  - /url: /archive/48163.html
+                  - generic [ref=e446]:
+                    - generic [ref=e447]: 单次给药、长期降脂！礼来公布基因疗法最新数据
+                    - generic [ref=e448]:
+                      - generic "礼来" [ref=e450]
+                      - generic [ref=e451]: 2026-05-26
+              - generic [ref=e454]:
+                - link "首款！吉利德肝炎新药Hepcludex获批FDA 首款！吉利德肝炎新药Hepcludex获批FDA 首款！吉利德肝炎新药Hepcludex获批FDA 首款！吉利德肝炎新药Hepcludex获批FDA 吉利德 2026-05-26" [ref=e456] [cursor=pointer]:
+                  - /url: /archive/48164.html
+                  - generic [ref=e457]:
+                    - heading "首款！吉利德肝炎新药Hepcludex获批FDA" [level=2] [ref=e458]
+                    - generic [ref=e459]:
+                      - img "首款！吉利德肝炎新药Hepcludex获批FDA" [ref=e461]
+                      - img "首款！吉利德肝炎新药Hepcludex获批FDA" [ref=e463]
+                      - img "首款！吉利德肝炎新药Hepcludex获批FDA" [ref=e465]
+                    - generic [ref=e467]:
+                      - generic [ref=e468]: 吉利德
+                      - generic [ref=e469]: 2026-05-26
+                - link "3类高值耗材，接续采购启动 热门 热门 3类高值耗材，接续采购启动 切口保护器等3类耗材 带量采购 2026-05-26" [ref=e471] [cursor=pointer]:
+                  - /url: /archive/48170.html
+                  - generic [ref=e472]:
+                    - generic [ref=e473]:
+                      - img "3类高值耗材，接续采购启动" [ref=e475]
+                      - generic [ref=e476]:
+                        - generic [ref=e477]: 热门
+                        - generic [ref=e478]: 热门
+                    - generic [ref=e480]:
+                      - heading "3类高值耗材，接续采购启动" [level=2] [ref=e481]
+                      - paragraph [ref=e482]: 切口保护器等3类耗材
+                      - generic [ref=e484]:
+                        - generic [ref=e485]: 带量采购
+                        - generic [ref=e486]: 2026-05-26
+                - link "核药70亿美元大单，箭在弦上 热门 热门 核药70亿美元大单，箭在弦上 赛道格局生变？ 核药 2026-05-25" [ref=e488] [cursor=pointer]:
+                  - /url: /archive/48151.html
+                  - generic [ref=e489]:
+                    - generic [ref=e490]:
+                      - img "核药70亿美元大单，箭在弦上" [ref=e492]
+                      - generic [ref=e493]:
+                        - generic [ref=e494]: 热门
+                        - generic [ref=e495]: 热门
+                    - generic [ref=e497]:
+                      - heading "核药70亿美元大单，箭在弦上" [level=2] [ref=e498]
+                      - paragraph [ref=e499]: 赛道格局生变？
+                      - generic [ref=e501]:
+                        - generic [ref=e502]: 核药
+                        - generic [ref=e503]: 2026-05-25
+                - link "云顶新耀艾曲莫德获韩国上市批准 深耕亚洲市场释放商业化价值 热门 热门 云顶新耀艾曲莫德获韩国上市批准 深耕亚洲市场释放商业化价值 亚洲商业化布局持续推进 云顶新耀,艾曲莫德 2026-05-25" [ref=e505] [cursor=pointer]:
+                  - /url: /archive/48149.html
+                  - generic [ref=e506]:
+                    - generic [ref=e507]:
+                      - img "云顶新耀艾曲莫德获韩国上市批准 深耕亚洲市场释放商业化价值" [ref=e509]
+                      - generic [ref=e510]:
+                        - generic [ref=e511]: 热门
+                        - generic [ref=e512]: 热门
+                    - generic [ref=e514]:
+                      - heading "云顶新耀艾曲莫德获韩国上市批准 深耕亚洲市场释放商业化价值" [level=2] [ref=e515]
+                      - paragraph [ref=e516]: 亚洲商业化布局持续推进
+                      - generic [ref=e518]:
+                        - generic [ref=e519]: 云顶新耀,艾曲莫德
+                        - generic [ref=e520]: 2026-05-25
+                - link "知名仿制药CRO将易主 热门 热门 知名仿制药CRO将易主 百诚医药 百诚医药 2026-05-25" [ref=e522] [cursor=pointer]:
+                  - /url: /archive/48152.html
+                  - generic [ref=e523]:
+                    - generic [ref=e524]:
+                      - img "知名仿制药CRO将易主" [ref=e526]
+                      - generic [ref=e527]:
+                        - generic [ref=e528]: 热门
+                        - generic [ref=e529]: 热门
+                    - generic [ref=e531]:
+                      - heading "知名仿制药CRO将易主" [level=2] [ref=e532]
+                      - paragraph [ref=e533]: 百诚医药
+                      - generic [ref=e535]:
+                        - generic [ref=e536]: 百诚医药
+                        - generic [ref=e537]: 2026-05-25
+                - link "中国ADC的三股势力，正在形成 中国ADC的三股势力，正在形成 爆发式里程碑节点 ADC 2026-05-25" [ref=e539] [cursor=pointer]:
+                  - /url: /archive/48157.html
+                  - generic [ref=e540]:
+                    - img "中国ADC的三股势力，正在形成" [ref=e543]
+                    - generic [ref=e544]:
+                      - heading "中国ADC的三股势力，正在形成" [level=2] [ref=e545]
+                      - paragraph [ref=e546]: 爆发式里程碑节点
+                      - generic [ref=e548]:
+                        - generic [ref=e549]: ADC
+                        - generic [ref=e550]: 2026-05-25
+                - link "国产Biotech新锐，冲刺港交所 原创推荐 原创推荐 国产Biotech新锐，冲刺港交所 双核驱动 天辰生物 2026-05-25" [ref=e552] [cursor=pointer]:
+                  - /url: /archive/48158.html
+                  - generic [ref=e553]:
+                    - generic [ref=e554]:
+                      - img "国产Biotech新锐，冲刺港交所" [ref=e556]
+                      - generic [ref=e557]:
+                        - generic [ref=e558]: 原创推荐
+                        - generic [ref=e559]: 原创推荐
+                    - generic [ref=e561]:
+                      - heading "国产Biotech新锐，冲刺港交所" [level=2] [ref=e562]
+                      - paragraph [ref=e563]: 双核驱动
+                      - generic [ref=e565]:
+                        - generic [ref=e566]: 天辰生物
+                        - generic [ref=e567]: 2026-05-25
+                - link "重磅！强生自免新药尼卡利单抗国内获批 热门 热门 重磅！强生自免新药尼卡利单抗国内获批 被强生寄予厚望的自免新品种 强生 2026-05-25" [ref=e569] [cursor=pointer]:
+                  - /url: /archive/48154.html
+                  - generic [ref=e570]:
+                    - generic [ref=e571]:
+                      - img "重磅！强生自免新药尼卡利单抗国内获批" [ref=e573]
+                      - generic [ref=e574]:
+                        - generic [ref=e575]: 热门
+                        - generic [ref=e576]: 热门
+                    - generic [ref=e578]:
+                      - heading "重磅！强生自免新药尼卡利单抗国内获批" [level=2] [ref=e579]
+                      - paragraph [ref=e580]: 被强生寄予厚望的自免新品种
+                      - generic [ref=e582]:
+                        - generic [ref=e583]: 强生
+                        - generic [ref=e584]: 2026-05-25
+                - link "2026，医美器械研发新风向 热门 热门 2026，医美器械研发新风向 医美器械研发领域热度分析 医美器械 2026-05-25" [ref=e586] [cursor=pointer]:
+                  - /url: /archive/48155.html
+                  - generic [ref=e587]:
+                    - generic [ref=e588]:
+                      - img "2026，医美器械研发新风向" [ref=e590]
+                      - generic [ref=e591]:
+                        - generic [ref=e592]: 热门
+                        - generic [ref=e593]: 热门
+                    - generic [ref=e595]:
+                      - heading "2026，医美器械研发新风向" [level=2] [ref=e596]
+                      - paragraph [ref=e597]: 医美器械研发领域热度分析
+                      - generic [ref=e599]:
+                        - generic [ref=e600]: 医美器械
+                        - generic [ref=e601]: 2026-05-25
+                - link "太猛了！科伦斩获双品种首仿，罕见病与神经系统赛道再起波澜 太猛了！科伦斩获双品种首仿，罕见病与神经系统赛道再起波澜 太猛了！科伦斩获双品种首仿，罕见病与神经系统赛道再起波澜 太猛了！科伦斩获双品种首仿，罕见病与神经系统赛道再起波澜 仿制药一致性评价 2026-05-25" [ref=e603] [cursor=pointer]:
+                  - /url: /archive/48142.html
+                  - generic [ref=e604]:
+                    - heading "太猛了！科伦斩获双品种首仿，罕见病与神经系统赛道再起波澜" [level=2] [ref=e605]
+                    - generic [ref=e606]:
+                      - img "太猛了！科伦斩获双品种首仿，罕见病与神经系统赛道再起波澜" [ref=e608]
+                      - img "太猛了！科伦斩获双品种首仿，罕见病与神经系统赛道再起波澜" [ref=e610]
+                      - img "太猛了！科伦斩获双品种首仿，罕见病与神经系统赛道再起波澜" [ref=e612]
+                    - generic [ref=e614]:
+                      - generic [ref=e615]: 仿制药一致性评价
+                      - generic [ref=e616]: 2026-05-25
+              - generic [ref=e622] [cursor=pointer]: 加载更多
+      - generic [ref=e623]:
+        - generic [ref=e626]:
+          - link "药智网 汇聚医药政策法规、行业资讯、热点新闻、数据分..." [ref=e627] [cursor=pointer]:
+            - /url: /writer/6
+            - generic [ref=e629]: 药智网
+            - generic "汇聚医药政策法规、行业资讯、热点新闻、数据分析等，打通医药信息屏障，架起产、学、研沟通最佳桥梁。" [ref=e630]: 汇聚医药政策法规、行业资讯、热点新闻、数据分...
+          - generic [ref=e633] [cursor=pointer]: 订阅专栏
+        - generic [ref=e634]:
+          - generic [ref=e635]: 药智网的文章
+          - heading "• 一季度，8家大药企营收实现两位数增长" [level=2] [ref=e636]:
+            - link "• 一季度，8家大药企营收实现两位数增长" [ref=e637] [cursor=pointer]:
+              - /url: /archive/48168.html
+          - heading "• 单次给药、长期降脂！礼来公布基因疗法最新数据" [level=2] [ref=e638]:
+            - link "• 单次给药、长期降脂！礼来公布基因疗法最新数据" [ref=e639] [cursor=pointer]:
+              - /url: /archive/48163.html
+          - heading "• 精鼎医药推出 ParexelAI，以人工智能创新加速临床研发" [level=2] [ref=e640]:
+            - link "• 精鼎医药推出 ParexelAI，以人工智能创新加速临床研发" [ref=e641] [cursor=pointer]:
+              - /url: /archive/48150.html
+          - heading "• 核药70亿美元大单，箭在弦上" [level=2] [ref=e642]:
+            - link "• 核药70亿美元大单，箭在弦上" [ref=e643] [cursor=pointer]:
+              - /url: /archive/48151.html
+          - heading "• 国产Biotech新锐，冲刺港交所" [level=2] [ref=e644]:
+            - link "• 国产Biotech新锐，冲刺港交所" [ref=e645] [cursor=pointer]:
+              - /url: /archive/48158.html
+          - heading "• 知名仿制药CRO将易主" [level=2] [ref=e646]:
+            - link "• 知名仿制药CRO将易主" [ref=e647] [cursor=pointer]:
+              - /url: /archive/48152.html
+          - heading "• 中国ADC的三股势力，正在形成" [level=2] [ref=e648]:
+            - link "• 中国ADC的三股势力，正在形成" [ref=e649] [cursor=pointer]:
+              - /url: /archive/48157.html
+          - heading "• 日本制药巨头，被判赔170亿" [level=2] [ref=e650]:
+            - link "• 日本制药巨头，被判赔170亿" [ref=e651] [cursor=pointer]:
+              - /url: /archive/48148.html
+          - heading "• 肝癌药物风云起" [level=2] [ref=e652]:
+            - link "• 肝癌药物风云起" [ref=e653] [cursor=pointer]:
+              - /url: /archive/48146.html
+          - heading "• 2026 ASCO｜肺癌一线，大战前夜" [level=2] [ref=e654]:
+            - link "• 2026 ASCO｜肺癌一线，大战前夜" [ref=e655] [cursor=pointer]:
+              - /url: /archive/48140.html
+  - generic [ref=e656]:
+    - img [ref=e658]
+    - generic [ref=e660]: 投稿
+    - generic [ref=e662]:
+      - text: 商务
+      - text: 合作
+    - generic [ref=e664]: 公众号
+  - generic [ref=e665]:
+    - generic [ref=e667]:
+      - heading "友情链接" [level=5] [ref=e669]
+      - generic [ref=e671]:
+        - paragraph [ref=e672]:
+          - text: 康洲大数据版权所有Copyright Reserved @2009-2026 YAOZH.COM 工信部备案号：
+          - link "渝ICP备10200070号-3" [ref=e673] [cursor=pointer]:
+            - /url: https://beian.miit.gov.cn/#/Integrated/index
+        - paragraph [ref=e674]: 客户服务热线：400-678-0778 投诉建议：023-62988285转802 E-mail:admin@yaozh.com
+        - paragraph [ref=e675]: 互联网增值电信业务许可证编号:渝B2-20120028 互联网药品信息服务资格证：(渝)-经营性-2021-0017
+        - paragraph [ref=e676]:
+          - text: 药智旗下网站：
+          - link "药智网" [ref=e677] [cursor=pointer]:
+            - /url: //www.yaozh.com
+          - link "| 药智新闻" [ref=e678] [cursor=pointer]:
+            - /url: https://news.yaozh.com/?=yaozh
+          - link "| 药智大讲堂" [ref=e679] [cursor=pointer]:
+            - /url: https://edu.yaozh.com/
+          - link "| 药智传媒" [ref=e680] [cursor=pointer]:
+            - /url: https://meeting.yaozh.com/
+          - link "| 药智数据" [ref=e681] [cursor=pointer]:
+            - /url: //db.yaozh.com
+          - link "| 公司资质" [ref=e682] [cursor=pointer]:
+            - /url: http://about.yaozh.com/qualification.html
+          - link "| 联系我们" [ref=e683] [cursor=pointer]:
+            - /url: http://about.yaozh.com/contact.html
+        - generic [ref=e684]:
+          - paragraph [ref=e685]: 扫一扫
+          - img "QR-code" [ref=e686]
+    - generic [ref=e689]:
+      - generic [ref=e690]:
+        - paragraph [ref=e691]:
+          - text: "Copyright © 2009-2026 药智网YAOZH.COM All Rights Reserved. 工信部备案号:"
+          - link "渝ICP备10200070号-3" [ref=e692] [cursor=pointer]:
+            - /url: https://beian.miit.gov.cn/
+        - generic [ref=e693]:
+          - img [ref=e694]
+          - text: 渝公网安备 50010802001068号
+      - generic [ref=e697]:
+        - generic "投稿" [ref=e698]
+        - generic "订阅" [ref=e699]
+        - generic "微博" [ref=e700]
+        - generic "微信" [ref=e701]
