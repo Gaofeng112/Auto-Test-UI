@@ -7,7 +7,7 @@
 首次使用先保存登录态：
 
 ```powershell
-python login.py
+python .\src\login.py
 ```
 
 脚本会打开药智网页面。请在浏览器里手动登录，登录成功后回到终端按 Enter。登录信息会保存在完整浏览器 profile 目录：
@@ -75,8 +75,10 @@ KEEP_BROWSER_OPEN_AFTER_RUN=1
 
 - `login.py`：打开浏览器，手动登录药智网，并保存 cookie/storage state。
 - `main.py`：自然语言任务入口，从终端读取任务并调用 agent。
-- `agent.py`：启动 Playwright MCP，复用登录 profile，调用模型执行 UI 自动化。
-- `Prompt.md`：agent 的浏览器操作规则、药智网流程约束和输出格式。
+- `src/agent.py`：启动 Playwright MCP，复用登录 profile，调用模型执行 UI 自动化。
+- `src/login.py`：登录逻辑实现，顶层 `login.py` 会调用它。
+- `src/Prompt.md`：agent 的浏览器操作规则、药智网流程约束和输出格式。
+- `docs/`：存放项目说明、测试文本等 `.txt` 文档。
 - `.env.example`：配置模板。
 - `.playwright-mcp/`：MCP 输出和登录态目录，已被 `.gitignore` 忽略。
 

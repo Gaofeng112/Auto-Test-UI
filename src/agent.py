@@ -13,7 +13,7 @@ from agents.mcp import MCPServerStdio
 
 load_dotenv()
 
-PROJECT_DIR = Path(__file__).resolve().parent
+PROJECT_DIR = Path(__file__).resolve().parents[1]
 BASE_URL = os.getenv("OPENAI_BASE_URL")
 API_KEY = os.getenv("OPENAI_API_KEY")
 MODEL_NAME = os.getenv("OPENAI_MODEL", "gpt-5.4")
@@ -86,7 +86,7 @@ async def run_agent(task: Optional[str] = None) -> str:
         f"navigation_timeout={PLAYWRIGHT_NAVIGATION_TIMEOUT_MS}ms"
     )
 
-    instructions = (PROJECT_DIR / "Prompt.md").read_text(encoding="utf-8").strip()
+    instructions = (PROJECT_DIR / "src" / "Prompt.md").read_text(encoding="utf-8").strip()
 
     # Playwright MCP：本地子进程，等价于 Cursor 里 mcp.json 的配置
     async with MCPServerStdio(

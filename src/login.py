@@ -9,7 +9,7 @@ from playwright.async_api import async_playwright
 
 load_dotenv()
 
-PROJECT_DIR = Path(__file__).resolve().parent
+PROJECT_DIR = Path(__file__).resolve().parents[1]
 LOGIN_URL = os.getenv("LOGIN_URL", "https://vip.yaozh.com")
 STORAGE_STATE = Path(os.getenv("PLAYWRIGHT_STORAGE_STATE", ".playwright-mcp/vip-auth-state.json"))
 USER_DATA_DIR = Path(os.getenv("PLAYWRIGHT_USER_DATA_DIR", ".playwright-mcp/user-data"))
@@ -48,7 +48,7 @@ async def main() -> None:
         await context.close()
 
     print(f"登录态已保存: {storage_state_path}")
-    print("后续运行 python main.py 或 python agent.py 时会优先加载该文件。")
+    print("后续运行 python main.py 时会复用该浏览器 profile。")
 
 
 if __name__ == "__main__":
